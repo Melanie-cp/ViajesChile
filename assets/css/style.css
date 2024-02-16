@@ -4,6 +4,8 @@ html {
 
 body {
     font-family: "Lato", sans-serif;
+    color: #fff;
+    background-color: black;
 }
 
 .carousel-item {
@@ -24,4 +26,20 @@ body {
 .navbar-dark .navbar-brand {
     font-family: "Lato", sans-serif;
     font-weight: 700;
+}
+
+i {
+    color: #fff;
+}
+
+.card {
+    background-color: black;
+}
+
+.card-header {
+    background-color: aqua;
+}
+
+p {
+    color: #fff;
 }
