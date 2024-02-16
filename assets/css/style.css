@@ -1,4 +1,38 @@
-h1 {
+.carousel-item {
+    height: 70vh;
+    min-height: 700px;
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+#mainNavbar {
+    padding-left: 50px;
+    padding-top: 20px;
+}
+
+.navbar-dark .navbar-brand {
     font-family: "Lato", sans-serif;
-    font-weight: 400;
+
+}
+
+.navbar-nav .nav-link {
+    font-family: "Lato", sans-serif;
+
+}
+
+.display-4 {
+    font-family: "Lato", sans-serif;
+}
+
+.lead {
+    font-family: "Lato", sans-serif;
+}
+
+
+
+.font-weight-light {
+    font-family: "Lato", sans-serif;
 }
