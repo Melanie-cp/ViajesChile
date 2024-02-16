@@ -2,9 +2,13 @@ html {
     scroll-behavior: smooth;
 }
 
+body {
+    font-family: "Lato", sans-serif;
+}
+
 .carousel-item {
     height: 70vh;
-    min-height: 700px;
+    min-height: 750px;
     background: no-repeat center center scroll;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -19,24 +23,5 @@ html {
 
 .navbar-dark .navbar-brand {
     font-family: "Lato", sans-serif;
-
-}
-
-.navbar-nav .nav-link {
-    font-family: "Lato", sans-serif;
-
-}
-
-.display-4 {
-    font-family: "Lato", sans-serif;
-}
-
-.lead {
-    font-family: "Lato", sans-serif;
-}
-
-
-
-.font-weight-light {
-    font-family: "Lato", sans-serif;
+    font-weight: 700;
 }
