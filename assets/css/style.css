@@ -57,6 +57,12 @@ h2 {
     background-color: aqua;
 }
 
+.modal-dialog {
+    color: black;
+}
+
 footer {
     background-color: aqua;
+    padding: 40px 0;
+    text-align: center;
 }
