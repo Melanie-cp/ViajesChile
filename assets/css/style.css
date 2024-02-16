@@ -32,7 +32,7 @@ i {
     color: #fff;
 }
 
-.card {
+.card1 {
     background-color: black;
 }
 
@@ -42,4 +42,12 @@ i {
 
 p {
     color: #fff;
+}
+
+h2 {
+    font-weight: 700;
+}
+
+.card {
+    background-color: aqua;
 }
